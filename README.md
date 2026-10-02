@@ -156,7 +156,7 @@ Headset
 ## Arquitetura do projeto
 
 ```text
-megastore/
+conectastore/
 ├── src/
 │   ├── main.rs
 │   └── lib.rs
@@ -195,3 +195,7 @@ Resultados obtidos:
 | 10.000 | 9.999 | 664,7 µs |
 
 Os valores podem variar de acordo com o computador e com cada execução.
+
+## Vídeo pitch
+
+https://youtu.be/pMNb4JSHDGA
