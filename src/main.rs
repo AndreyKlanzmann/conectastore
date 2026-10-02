@@ -2,7 +2,7 @@ use std::collections::HashMap;
 use std::io::{self, Write};
 use std::time::Instant;
 
-use megastore::{
+use conectastore::{
     Produto,
     cadastrar_produto,
     consultar_produto,

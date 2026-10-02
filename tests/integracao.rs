@@ -1,6 +1,6 @@
 use std::collections::HashMap;
 
-use megastore::{
+use conectastore::{
     Produto,
     cadastrar_produto,
     adicionar_conexao,
